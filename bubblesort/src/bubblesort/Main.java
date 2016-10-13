@@ -15,6 +15,7 @@ public class Main {
 			array[i]= rand.nextInt(100) + 1;
 		}
 		
+		
 		System.out.println(Arrays.toString(array));
 		int val = 0;
 		for(int i = 0;i < array.length;i++){
