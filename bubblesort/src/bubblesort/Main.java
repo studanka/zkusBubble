@@ -25,6 +25,8 @@ public class Main {
 					array[j+1] = val;
 				}
 			}
+			
+			
 		}
 		System.out.println(Arrays.toString(array));
 
